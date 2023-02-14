@@ -1,0 +1,9 @@
+.menu-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-container .item {
+    margin: 5px 8px;
+    font-size: 2rem;
+}
