@@ -1,5 +1,7 @@
 html {
-  background-color: #FFF4DD;
+  background: #7f7fd5;
+  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+  /* background-color: #FFF4DD; */
 }
 
 .App {
@@ -7,10 +9,8 @@ html {
   flex-direction: column;
 }
 
-.app-header {
-  padding: 10px 5px 20px 5px;
+.app-content {
+  margin: 25px;
   display: flex;
-  flex-direction: row;
-  align-items: flex-end;
-  border-bottom: 1px solid black;
+  flex-direction: column;
 }
