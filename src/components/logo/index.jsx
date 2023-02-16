@@ -5,7 +5,7 @@ function Logo() {
   return (
     <img
       alt="logo"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207"
+      src="https://dynamic.brandcrowd.com/asset/logo/70dfae2f-df8d-47c1-a8d4-912c52a1a574/large?logoTemplateVersion=1&v=638121563908805002"
       className="logo"
     />
   );

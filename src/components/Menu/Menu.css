@@ -1,0 +1,17 @@
+.menu-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-container .item {
+    margin: 5px 8px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+@media (max-width: 550px) {
+    .menu-container {
+      font-size: 1rem;
+      flex-direction: column;
+    }
+}
