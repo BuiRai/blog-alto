@@ -1,0 +1,14 @@
+.main-container {
+    display: grid;
+    place-items: center;
+    padding: 20px;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 90%;
+    margin-block: 2rem;
+    gap: 2rem;
+}

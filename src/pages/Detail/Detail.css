@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.banner-container {
+    background-color: rgba(0, 0, 73, 0.3);
+}
+
+.banner-image {
+    opacity: 0.9;
+    display: block;
+    width: 100%;
+    max-height: 600px;
+    object-fit: contain;
+}
